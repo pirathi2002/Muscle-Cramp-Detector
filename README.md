@@ -87,9 +87,9 @@ graph TD;
 ---
 
 ## **Contributors**
-👩‍💻 **Your Name** – *Lead Developer & Researcher*  
-👨‍🔬 **Team Member 2** – *Signal Processing & MATLAB Analysis*  
-👨‍🏭 **Team Member 3** – *Circuit Design & Hardware Integration*  
+👩‍💻 **[Thamilezai Ananthakumar]** 
+👨‍🔬 **[Dayananthan]**
+👨‍🏭 **[Prathishanth]** 
 
 ---
 
