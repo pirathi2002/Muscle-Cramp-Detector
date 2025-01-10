@@ -1,4 +1,3 @@
-Here is a **professional and attractive** `README.md` file for your GitHub repository, including an **image placeholder** for the final product.
 
 ---
 
@@ -96,10 +95,9 @@ graph TD;
 
 ## **References**
 🔗 [ThingSpeak IoT Platform](https://thingspeak.com/)  
-🔗 [ESP32 Documentation](https://www.espressif.com/en/products/socs/esp32/resources)  
-🔗 [MATLAB for IoT](https://www.mathworks.com/solutions/iot.html)  
+🔗 [ESP32 Documentation](https://www.espressif.com/en/products/socs/esp32/resources)   
 
 ---
 
-### 🚀 **This project bridges IoT, machine learning, and biomedical engineering for real-time muscle health monitoring.**  
-Let me know if you need any changes! 🔥
+### 🚀 **This project bridges IoT, Signal Processing, and biomedical engineering for real-time muscle health monitoring.**  
+
