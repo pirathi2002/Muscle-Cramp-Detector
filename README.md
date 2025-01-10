@@ -87,9 +87,9 @@ graph TD;
 ---
 
 ## **Contributors**
-👩‍💻 **[Thamilezai Ananthakumar]** 
-👨‍🔬 **[Dayananthan]**
-👨‍🏭 **[Prathishanth]** 
+- **[Thamilezai Ananthakumar](https://github.com/ThamilezaiAnanthakumar)** 
+- **[Dayananthan](https://github.com/Dayananthan2021)**
+- **[Prathishanth](https://github.com/pirathi2002)** 
 
 ---
 
