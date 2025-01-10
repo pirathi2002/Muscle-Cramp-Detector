@@ -2,7 +2,7 @@
 ---
 
 ## **Muscle Cramp Detection System**
-![Final Product](assets/Final_Product.jpg)  
+  
 *A smart health monitoring system for early cramp detection using EMG, temperature, and oxygen saturation analysis.*
 
 ### **Overview**
@@ -64,7 +64,7 @@ graph TD;
 ---
 
 ## **Final Product Image**
-![Final Device Setup](https://your-image-url.com)
+![Final Product](assets/Final_Product.jpg)
 
 ---
 
